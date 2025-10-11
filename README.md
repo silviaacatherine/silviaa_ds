@@ -1,4 +1,4 @@
-# silvia_roboverse
+# silviaa_cath
 👋 Hey, I’m Silvia Catherine a teen builder with big dreams.
 I’m passionate about robotics, design, music, and tech that changes lives.
 Currently learning and growing through the BS in Electronic Systems from IIT Madras.
